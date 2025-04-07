@@ -1,0 +1,85 @@
+destrieux,full_name,aparc_a2009s,abbreviation,lobe,structure,region,plot_color,plot_pos,plot_order,anatomical_order_in_region,plot_order_float
+G_and_S_transv_frontopol,Frontopolar gyri and sulci,G_and_S_transv_frontopol,TransFrontGS,Frontal,Neocortex,Orbitofrontal,#C5E5F5,c,1,101,1
+G_and_S_frontomargin,Frontomarginal gyrus and sulcus,G_and_S_frontomargin,FMarG,Frontal,Neocortex,Orbitofrontal,#C5E5F5,c,1,102,1.1
+G_and_S_frontomargin,Frontomarginal gyrus and sulcus,G_and_S_frontomargin,FMarS,Frontal,Neocortex,Orbitofrontal,#C5E5F5,c,1,102,1.2
+G_orbital,,G_orbital,OrG,Frontal,Neocortex,Orbitofrontal,#C5E5F5,c,1,103,1.3
+S_orbital-H_Shaped,Orbital sulci,S_orbital-H_Shaped,TransOrS,Frontal,Neocortex,Orbitofrontal,#C5E5F5,c,1,104,1.4
+S_orbital_med-olfact,Olfactory sulcus,S_orbital_med-olfact,MedOrS,Frontal,Neocortex,Orbitofrontal,#C5E5F5,c,1,105,1.5
+G_rectus,Recuts gyrus,G_rectus,RectusG,Frontal,Neocortex,Orbitofrontal,#C5E5F5,c,1,106,1.6
+S_suborbital,Suborbital sulcus,S_suborbital,RostrS,Frontal,Neocortex,Orbitofrontal,#C5E5F5,c,1,107,1.7
+G_subcallosal,Subcallosal gyrus,G_subcallosal,SubCalG,Frontal,Neocortex,Orbitofrontal,#C5E5F5,c,1,108,1.8
+S_orbital_lateral,Lateral orbital sulci,S_orbital_lateral,LatOrS,Frontal,Neocortex,Operculo-insular,#87B5E0,c,2,201,2
+G_front_inf-Orbital,Pars orbitalis,G_front_inf-Orbital,IFGorb,Frontal,Neocortex,Operculo-insular,#87B5E0,c,2,202,2.1
+Lat_Fis-ant-Horizont,"Lateral fissure, antero-horizontal segment",Lat_Fis-ant-Horizont,LatS_hor,Frontal,Neocortex,Operculo-insular,#87B5E0,c,2,203,2.2
+G_front_inf-Triangul,Pars triangularis,G_front_inf-Triangul,IFGtri,Frontal,Neocortex,Operculo-insular,#87B5E0,c,2,204,2.3
+Lat_Fis-ant-Vertical,"Lateral fissure, antero-vertical segment",Lat_Fis-ant-Vertical,LatS_vert,Frontal,Neocortex,Operculo-insular,#87B5E0,c,2,205,2.4
+S_circular_insula_ant,"Circular sulcus of the insula, anterior",S_circular_insula_ant,CircIS_ant,Frontal,Insula,Operculo-insular,#87B5E0,c,2,206,2.5
+G_insular_short,Short insular gyri,G_insular_short,SIG,Frontal,Insula,Operculo-insular,#87B5E0,c,2,207,2.6
+S_circular_insula_sup,"Circular sulcus of the insula, superior",S_circular_insula_sup,CircIS_sup,Frontal,Insula,Operculo-insular,#87B5E0,c,2,208,2.7
+G_front_inf-Opercular,Pars opercularis,G_front_inf-Opercular,IFGopc,Frontal,Neocortex,Operculo-insular,#87B5E0,c,2,209,2.8
+S_precentral-inf-part,"Precentral sulcus, inferior",S_precentral-inf-part,PreCS_inf,Frontal,Neocortex,Dorsofrontal,#5268AC,c,3,301,3
+S_front_inf,Inferior frontal sulcus,S_front_inf,IFS,Frontal,Neocortex,Dorsofrontal,#5268AC,c,3,302,3.1
+G_front_middle,Middle frontal gyrus,G_front_middle,MFG,Frontal,Neocortex,Dorsofrontal,#5268AC,c,3,303,3.2
+S_front_middle,Middle frontal sulcus,S_front_middle,MFS,Frontal,Neocortex,Dorsofrontal,#5268AC,c,3,304,3.3
+S_front_sup,Superior frontal sulcus,S_front_sup,SFS,Frontal,Neocortex,Dorsofrontal,#5268AC,c,3,305,3.4
+G_front_sup,Superior frontal gyrus,G_front_sup,SFG,Central,Neocortex,Central,#876E98,c,4,401,4
+S_precentral-sup-part,"Precentral sulcus, superior",S_precentral-sup-part,PreCS_sup,Central,Neocortex,Central,#876E98,c,4,402,4.1
+G_precentral,Precentral gyrus,G_precentral,PreCG,Central,Neocortex,Central,#876E98,c,4,403,4.2
+S_central,Central Sulcus,S_central,CS,Central,Neocortex,Central,#876E98,c,4,404,4.3
+G_postcentral,Postcentral gyrus,G_postcentral,PostCG,Central,Neocortex,Central,#876E98,c,4,404,4.4
+S_postcentral,Postcentral sulcus,S_postcentral,PostCS,Central,Neocortex,Central,#876E98,c,4,405,4.5
+G_and_S_paracentral,Paracentral gyrus and sulcus,G_and_S_paracentral,ParaCG,Central,Neocortex,Central,#876E98,c,4,406,4.6
+G_and_S_paracentral,Paracentral gyrus and sulcus,G_and_S_paracentral,ParaCS,Central,Neocortex,Central,#876E98,c,4,406,4.7
+G_precuneus,Precuneus,G_precuneus,PreCu,Central,Neocortex,Central,#876E98,c,4,407,4.8
+G_parietal_sup,Superior parietal lobule,G_parietal_sup,SPG,Central,Neocortex,Central,#876E98,c,4,408,4.9
+S_pericallosal,Pericallosal sulcus,S_pericallosal,PericallosalS,Cingular,Neocortex,Cingular,#C0B0C9,c,5,501,5
+G_and_S_cingul-Ant,Anterior Cingulate Gyrus,G_and_S_cingul-Ant,ACCG,Cingular,Neocortex,Cingular,#C0B0C9,c,5,502,5.1
+G_and_S_cingul-Ant,Anterior Cingulate Gyrus,G_and_S_cingul-Ant,ACCS,Cingular,Neocortex,Cingular,#C0B0C9,c,5,503,5.2
+G_and_S_cingul-Mid-Ant,"Cingulate gyrus, middle-anterior",G_and_S_cingul-Mid-Ant,aMCCG,Cingular,Neocortex,Cingular,#C0B0C9,c,5,504,5.3
+G_and_S_cingul-Mid-Post,"Cingulate gyrus, middle-posterior",G_and_S_cingul-Mid-Post,pMCCG,Cingular,Neocortex,Cingular,#C0B0C9,c,5,505,5.4
+S_cingul-Marginalis,"Cingulate sulcus, marginal branch ",S_cingul-Marginalis,CingS_marg,Cingular,Neocortex,Cingular,#C0B0C9,c,5,506,5.5
+S_subparietal,Subparietal sulcus,S_subparietal,SubPS,Cingular,Neocortex,Cingular,#C0B0C9,c,5,507,5.6
+G_cingul-Post-dorsal,"Cingulate gyrus, postero-dorsal ",G_cingul-Post-dorsal,dPCCG,Cingular,Neocortex,Cingular,#C0B0C9,c,5,508,5.7
+G_cingul-Post-ventral,"Cingulate gyrus, postero-ventral ",G_cingul-Post-ventral,vPCCG,Cingular,Neocortex,Cingular,#C0B0C9,c,5,509,5.8
+S_intrapariet_and_P_trans,Intraparietal sulcus,S_intrapariet_and_P_trans,IntraPS,Parietal,Neocortex,Parietal,#EDB7C0,c,6,601,6
+S_interm_prim-Jensen,Sulcus of Jensen,S_interm_prim-Jensen,IntermPS,Parietal,Neocortex,Parietal,#EDB7C0,c,6,602,6.1
+G_pariet_inf-Supramar,Supramarginal gyrus,G_pariet_inf-Supramar,SMargG,Parietal,Neocortex,Parietal,#EDB7C0,c,6,603,6.2
+G_pariet_inf-Angular,Angular gyrus,G_pariet_inf-Angular,AngG,Parietal,Neocortex,Parietal,#EDB7C0,c,6,604,6.3
+Lat_Fis-post,,Lat_Fis-post,LatS_post,Temporal,Neocortex,Insulo-temporal,#E27668,c,7,701,7
+G_and_S_subcentral,,G_and_S_subcentral,SubCG,Temporal,Neocortex,Insulo-temporal,#E27668,c,7,702,7.1
+G_and_S_subcentral,,G_and_S_subcentral,SubCS,Temporal,Neocortex,Insulo-temporal,#E27668,c,7,703,7.2
+G_Ins_lg_and_S_cent_ins,,G_Ins_lg_and_S_cent_ins,LIG,Temporal,Insula,Insulo-temporal,#E27668,c,7,704,7.3
+S_circular_insula_inf,,S_circular_insula_inf,CircIS_inf,Temporal,Insula,Insulo-temporal,#E27668,c,7,705,7.4
+S_temporal_transverse,,S_temporal_transverse,TTS,Temporal,Neocortex,Insulo-temporal,#E27668,c,7,706,7.5
+G_temp_sup-Plan_tempo,,G_temp_sup-Plan_tempo,PlanTGsup,Temporal,Neocortex,Insulo-temporal,#E27668,c,7,707,7.6
+G_temp_sup-G_T_transv,,G_temp_sup-G_T_transv,TTG,Temporal,Neocortex,Insulo-temporal,#E27668,c,7,708,7.7
+G_temp_sup-Lateral,,G_temp_sup-Lateral,STG,Temporal,Neocortex,Insulo-temporal,#E27668,c,7,709,7.8
+S_temporal_sup,,S_temporal_sup,STS,Temporal,Neocortex,Insulo-temporal,#E27668,c,7,710,7.9
+G_temporal_middle,,G_temporal_middle,MTG,Temporal,Neocortex,Inferotemporal,#EDA841,c,8,801,8
+S_temporal_inf,,S_temporal_inf,ITS,Temporal,Neocortex,Inferotemporal,#EDA841,c,8,802,8.1
+G_temporal_inf,,G_temporal_inf,ITG,Temporal,Neocortex,Inferotemporal,#EDA841,c,8,803,8.2
+G_oc-temp_lat-fusifor,,G_oc-temp_lat-fusifor,FusG,Temporal,Limbic,Inferotemporal,#EDA841,c,8,804,8.3
+S_oc-temp_lat,,S_oc-temp_lat,OTS_lat,Temporal,Limbic,Inferotemporal,#EDA841,c,8,805,8.4
+S_occipital_ant,,S_occipital_ant,AOS,Occipital,Neocortex,Occipital,#F9D958,c,9,901,9
+G_and_S_occipital_inf,,G_and_S_occipital_inf,IOG,Occipital,Neocortex,Occipital,#F9D958,c,9,902,9.05
+G_and_S_occipital_inf,,G_and_S_occipital_inf,IOS,Occipital,Neocortex,Occipital,#F9D958,c,9,903,9.1
+S_oc_middle_and_Lunatus,,S_oc_middle_and_Lunatus,MOS,Occipital,Neocortex,Occipital,#F9D958,c,9,904,9.15
+S_oc_sup_and_transversal,,S_oc_sup_and_transversal,SOS,Occipital,Neocortex,Occipital,#F9D958,c,9,905,9.2
+Pole_occipital,,Pole_occipital,Opole,Occipital,Neocortex,Occipital,#F9D958,c,9,906,9.25
+G_occipital_middle,,G_occipital_middle,MOG,Occipital,Neocortex,Occipital,#F9D958,c,9,907,9.3
+G_occipital_sup,,G_occipital_sup,SOG,Occipital,Neocortex,Occipital,#F9D958,c,9,908,9.35
+S_parieto_occipital,,S_parieto_occipital,POS,Occipital,Neocortex,Occipital,#F9D958,c,9,909,9.4
+S_calcarine,,S_calcarine,CalcS,Occipital,Neocortex,Occipital,#F9D958,c,9,910,9.45
+G_cuneus,Cuneus,G_cuneus,Cu,Occipital,Neocortex,Occipital,#F9D958,c,9,911,9.5
+S_oc-temp_med_and_Lingual,,S_oc-temp_med_and_Lingual,OTS_med,Occipital,Limbic,Occipital,#F9D958,c,9,912,9.55
+G_oc-temp_med-Lingual,,G_oc-temp_med-Lingual,LinG,Occipital,Limbic,Occipital,#F9D958,c,9,913,9.6
+S_collat_transv_post,,S_collat_transv_post,CollatS_post,Occipital,Limbic,Occipital,#F9D958,c,9,914,9.65
+entorhinal_cortex,,,Ent,Limbic,Limbic,Mesiotemporal,#8BC2C4,s,10,1001,10
+S_collat_transv_ant,,S_collat_transv_ant,CollatS_ant,Limbic,Limbic,Mesiotemporal,#8BC2C4,s,10,1002,10.1
+G_oc-temp_med-Parahip,,G_oc-temp_med-Parahip,ParahipG,Limbic,Limbic,Mesiotemporal,#8BC2C4,s,10,1003,10.2
+Pole_temporal,,Pole_temporal,Tpole,Limbic,Limbic,Mesiotemporal,#8BC2C4,s,10,1004,10.3
+G_temp_sup-Plan_polar,,G_temp_sup-Plan_polar,PlanTGpole,Limbic,Neocortex,Mesiotemporal,#8BC2C4,s,10,1005,10.4
+Amygdala,Amygdala,,Amy,Limbic,Limbic,Amygdala,#377F80,s,11,1101,11
+PosteroHippocampus,,,Hipp_post,Limbic,Limbic,Hippocampus,#D1DF7A,s,12,1201,12
+Hippocampus,,,HIPP,Limbic,Limbic,Hippocampus,#D1DF7A,s,12,1202,12.1
+AnteroHippocampus,,,Hipp_ant,Limbic,Limbic,Hippocampus,#D1DF7A,s,12,1203,12.2

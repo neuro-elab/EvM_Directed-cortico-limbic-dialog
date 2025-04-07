@@ -9,11 +9,11 @@ from connectogram_helpers import connectogram_region_sleep_mod, reorder_letters
 from pathlib import Path
 
 # ==== CONFIGURATION ====
-PATH_CONNECTO = '/Users/ellenvanmaren/Desktop/Insel/PhD_Projects/EL_experiment/Codes/Softwares/Connecto/Connecto/'
+
 PATH_Data = os.path.join(Path(__file__).resolve().parent.parent, 'Data')
 
 # ==== LOAD DATA ====
-labels = pd.read_csv(os.path.join(PATH_CONNECTO, 'resources', 'tables', 'data_atlas.csv'))
+labels = pd.read_csv(os.path.join(PATH_Data, 'data_atlas.csv'))
 df_con = pd.read_csv(os.path.join(PATH_Data, 'data_con_figures.csv'))
 df_stats = pd.read_csv(os.path.join(PATH_Data, 'sleep_mod_stats.csv'))
 # Filter out unwanted subjects and local channels

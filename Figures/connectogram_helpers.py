@@ -3,14 +3,15 @@ import pandas as pd
 import numpy as np
 import sys
 from collections import deque
-
-
+import os
+from pathlib import Path
+cwd = Path.cwd()
 # ==== CONFIGURATION ====
-PATH_CONNECTO = '/Users/ellenvanmaren/Desktop/Insel/PhD_Projects/EL_experiment/Codes/Softwares/Connecto/Connecto/'
-
-## adding Conenctogram
-sys.path.append(PATH_CONNECTO)
-from mock.shared_ellen import Shared
+# PATH_CONNECTO = '/Users/ellenvanmaren/Desktop/Insel/PhD_Projects/EL_experiment/Codes/Softwares/Connecto/Connecto/'
+PATH_Connecto = os.path.join(cwd, 'Connecto')
+## adding Conenctogram path
+sys.path.append(PATH_Connecto)
+from mock.shared_figures import Shared
 shared_fake = Shared()
 
 from views.plot_connectogram import ConnectogramPlotter

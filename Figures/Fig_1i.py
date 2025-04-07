@@ -9,12 +9,11 @@ from pathlib import Path
 # ===============================
 # Config: Set your Connecto path
 # ===============================
-PATH_CONNECTO = '/Users/ellenvanmaren/Desktop/Insel/PhD_Projects/EL_experiment/Codes/Softwares/Connecto/Connecto/'
-PPATH_Data = os.path.join(Path(__file__).resolve().parent.parent, 'Data')
+PATH_Data = os.path.join(Path(__file__).resolve().parent.parent, 'Data')
 
 def load_data(path_connecto):
     """Load label and graph data from CSV files."""
-    labels = pd.read_csv(os.path.join(path_connecto, 'resources', 'tables', 'data_atlas.csv'))
+    labels = pd.read_csv(os.path.join(PATH_Data, 'data_atlas.csv'))
     df_graph = pd.read_csv(os.path.join(PATH_Data, 'data_con_figures.csv'))
     return labels, df_graph
 

@@ -9,15 +9,13 @@ import matplotlib.colors as mcolors
 import matplotlib.patches as patches
 from pathlib import Path
 # ==== CONFIGURATION ====
-PATH_CONNECTO = '/Users/ellenvanmaren/Desktop/Insel/PhD_Projects/EL_experiment/Codes/Softwares/Connecto/Connecto/'
-PATH_FTRACT = '/Volumes/vellen/PhD/EL_experiment/Analysis/FTRACT/probability_table.csv'
 PATH_Data = os.path.join(Path(__file__).resolve().parent.parent, 'Data')
 FIGSIZE = (5, 5)
 
 # ==== LOAD DATA ====
-labels = pd.read_csv(os.path.join(PATH_CONNECTO, 'resources', 'tables', 'data_atlas.csv'))
+labels = pd.read_csv(os.path.join(PATH_Data, 'data_atlas.csv'))
 con_all = pd.read_csv(os.path.join(PATH_Data, 'data_con_figures.csv'))
-ftract_df = pd.read_csv(PATH_FTRACT)
+ftract_df = pd.read_csv(os.path.join(PATH_Data, 'FTRACT_probability_table.csv'))
 
 regions_all = np.unique(labels.drop_duplicates('region').region)
 region_color_map = labels.drop_duplicates('region').set_index('region')['plot_color'].to_dict()

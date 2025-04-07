@@ -8,8 +8,7 @@ from pathlib import Path
 # ==========================
 # CONFIGURATION
 # ==========================
-# Paths to data and resources
-PATH_CONNECTO = '/Users/ellenvanmaren/Desktop/Insel/PhD_Projects/EL_experiment/Codes/Softwares/Connecto/Connecto/'
+
 PATH_Data = os.path.join(Path(__file__).resolve().parent.parent, 'Data')
 # Region of interest: choose 'Hippocampus' or 'Amygdala'
 REGION_SEL = 'Hippocampus'
@@ -28,8 +27,8 @@ label_sleep = ['Wake', 'NREM', 'REM']
 # ==========================
 # DATA LOADING & CLEANING
 # ==========================
-# Load atlas labels and connection data
-labels = pd.read_csv(os.path.join(PATH_CONNECTO, 'resources', 'tables', 'data_atlas.csv'))
+
+labels = pd.read_csv(os.path.join(PATH_Data, 'data_atlas.csv'))
 con_all = pd.read_csv(os.path.join(PATH_Data, 'data_con_figures.csv'))
 df_ExI = pd.read_csv(os.path.join(PATH_Data, 'ExI_connections.csv'))
 

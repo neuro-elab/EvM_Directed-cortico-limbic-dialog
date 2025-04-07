@@ -6,12 +6,10 @@ import matplotlib.pyplot as plt
 from pathlib import Path
 
 # ==== CONFIGURATION ====
-# File paths for data and resources
-PATH_CONNECTO = '/Users/ellenvanmaren/Desktop/Insel/PhD_Projects/EL_experiment/Codes/Softwares/Connecto/Connecto/'
+
 PATH_Data = os.path.join(Path(__file__).resolve().parent.parent, 'Data')
 # ==== LOAD DATA ====
-# Load necessary datasets
-labels = pd.read_csv(os.path.join(PATH_CONNECTO, 'resources', 'tables', 'data_atlas.csv'))
+labels = pd.read_csv(os.path.join(PATH_Data, 'data_atlas.csv'))
 con_all = pd.read_csv(os.path.join(PATH_Data, 'data_con_figures.csv'))
 
 # Load and preprocess ExI data
