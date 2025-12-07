@@ -1,4 +1,4 @@
-# Repository Overview
+# Directed Portico-Limbic Dialog Repository
 ## Overview
 This repository contains the analysis code, preprocessed data, and figure-generation scripts used in the study:
 
