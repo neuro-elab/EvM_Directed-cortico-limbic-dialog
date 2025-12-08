@@ -1,4 +1,4 @@
-# Directed Portico-Limbic Dialog Repository
+# Directed cortico-limbic dialogue in the human brain 
 ## Overview
 This repository contains the analysis code, preprocessed data, and figure-generation scripts used in the study:
 
